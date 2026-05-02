@@ -20,16 +20,17 @@ privacy when using LLMs in research.
 
 Notebooks 01 and 02 run in Google Colab — no local setup needed. Click to open:
 
-| Notebook | Topic                           | Run in Colab                                                                                                                                                                                            |
-| -------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01       | RAG — Literature Q&A            | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lecaibio/cabs-workshop-llm-agents/blob/main/notebooks/01_rag_literature_qa.ipynb) |
-| 02       | Agent — Gene & Structure Lookup | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lecaibio/cabs-workshop-llm-agents/blob/main/notebooks/02_gene_lookup_agent.ipynb) |
-| 03       | Local Deployment with Ollama    | [View guide](notebooks/03_local_ollama_setup.md)                                                                                                                                                        |
+| Notebook | Topic                           | Run in Colab                                                                                                                                                                                                                              |
+| -------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01       | RAG — Literature Q&A            | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lecaibio/cabs-workshop-llm-agents/blob/main/notebooks/01_rag_agent_ask_questions_about_scientific_literature.ipynb) |
+| 02       | Agent — Gene & Structure Lookup | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lecaibio/cabs-workshop-llm-agents/blob/main/notebooks/02_gene_lookup_agent.ipynb)                                   |
+| 03       | Local Deployment with Ollama    | [View guide](notebooks/03_local_llm_deployment_with_ollama.md)                                                                                                                                                                            |
 
 ---
 
 ## Repository Contents
 
+```
 cabs-workshop-llm-agents/
 ├── README.md
 ├── notebooks/
@@ -39,6 +40,7 @@ cabs-workshop-llm-agents/
 │ └── local_agent.py ← Standalone local agent script
 └── slides/
 └── cabs_workshop_llm_agents.pdf ← Workshop slide deck
+```
 
 ---
 
