@@ -39,7 +39,7 @@ cabs-workshop-llm-agents/
 │ ├── 03_local_ollama_setup.md ← Local deployment guide (read + follow)
 │ └── local_agent.py ← Standalone local agent script
 └── slides/
-└── cabs_workshop_llm_agents.pdf ← Workshop slide deck
+  └── cabs_workshop_llm_agents.pdf ← Workshop slide deck
 ```
 
 ---
